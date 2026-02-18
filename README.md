@@ -9,18 +9,18 @@ To develop a ResNet-based automated dental disease detection system to improve d
 
 - 100+ clinical dental images and X-rays collected
 - Images anonymized and structured
-- Dataset expansion in progress (Target: 1000+ images)
+- Dataset expansion in progress (Target: 600+ images)
 
 Due to dataset size and privacy considerations, the full dataset is hosted on Google Drive.
 
 Dataset Link:
-https://drive.google.com/drive/folders/17umKIhaf8iX2UjSa_reJz7fzhtk0_sU6?usp=sharing
+https://drive.google.com/drive/folders/1kN5nkkI0xfnvLNQgwchw6SRSqkiCSd7R?usp=sharing
 
 ---
 
 ## Work Completed Till Mid-Sem
 
-- Collected and organized 100+ dental images and radiographs
+- Collected and organized 200+ dental images and radiographs
 - Studied dental diseases and their identification features under professional guidance
 - Learned fundamentals of Convolutional Neural Networks (CNN)
 - Analyzed multiple architectures and decided to use ResNet
@@ -46,7 +46,7 @@ Planned Implementation:
 
 ## Planned Work (End Semester)
 
-- Expand dataset to 1000+ images
+- Expand dataset to 6000+ images
 - Perform preprocessing (resizing, normalization, augmentation)
 - Structure dataset for model training
 - Implement and evaluate ResNet architecture
