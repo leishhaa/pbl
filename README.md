@@ -7,9 +7,9 @@ To develop a ResNet-based automated dental disease detection system to improve d
 
 ## Dataset
 
-- 100+ clinical dental images and X-rays collected
+- 200+ clinical dental images and X-rays collected
 - Images anonymized and structured
-- Dataset expansion in progress (Target: 600+ images)
+- Dataset expansion in progress (Target: 1000+ images)
 
 Due to dataset size and privacy considerations, the full dataset is hosted on Google Drive.
 
@@ -46,7 +46,7 @@ Planned Implementation:
 
 ## Planned Work (End Semester)
 
-- Expand dataset to 6000+ images
+- Expand dataset to 1000+ images
 - Perform preprocessing (resizing, normalization, augmentation)
 - Structure dataset for model training
 - Implement and evaluate ResNet architecture
